@@ -61,7 +61,8 @@ Sigue estos pasos para instalar y ejecutar la aplicación localmente:
 
 
 ## 🎨 Capturas de Pantalla
-![image](https://github.com/user-attachments/assets/51faf387-0e1d-4ae7-b353-a0786c12bbca)
+![image](https://github.com/user-attachments/assets/61dba5f2-8cdc-44b2-bdc3-b1a3aa1259c3)
+
 
 
 ## 🌟 Autor
