@@ -1,4 +1,4 @@
-# 🎬 **MovieList-Pro**  
+![image](https://github.com/user-attachments/assets/37fabdb0-13e9-435c-b936-c3a5e03e1cfa)# 🎬 **MovieList-Pro**  
 Aplicación interactiva para explorar, visualizar y gestionar una lista dinámica de películas, diseñada con un enfoque moderno y eficiente en tecnologías web.
 
 ## 📖 **Descripción del Proyecto**  
@@ -46,3 +46,26 @@ Sigue estos pasos para instalar y ejecutar la aplicación localmente:
    ```bash
    git clone https://github.com/tu-usuario/MovieList-Pro.git
    cd MovieList-Pro
+
+2. **Instalar Dependencias: Asegúrate de tener instalado Node.js. Luego, ejecuta:**:
+   ```bash
+   npm install
+
+3. **Iniciar el Servidor de Desarrollo**:
+   ```bash
+   npm run dev
+
+4. **Abrir en el Navegador: Abre tu navegador y visita**:
+   ```bash
+   http://localhost:5173
+
+
+## 🎨** Capturas de Pantalla**
+![image](https://github.com/user-attachments/assets/51faf387-0e1d-4ae7-b353-a0786c12bbca)
+
+
+## 🌟** Autor
+**Rubén Estiven Alegrias Velasco**  
+- [GitHub](https://github.com/russven)  
+- [LinkedIn](https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/)  
+- **Correo electrónico:** [r.estiven98@gmail.com](mailto:r.estiven98@gmail.com) 
