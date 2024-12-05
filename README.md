@@ -60,11 +60,11 @@ Sigue estos pasos para instalar y ejecutar la aplicación localmente:
    http://localhost:5173
 
 
-## 🎨** Capturas de Pantalla**
+## 🎨 Capturas de Pantalla
 ![image](https://github.com/user-attachments/assets/51faf387-0e1d-4ae7-b353-a0786c12bbca)
 
 
-## 🌟** Autor
+## 🌟 Autor
 **Rubén Estiven Alegrias Velasco**  
 - [GitHub](https://github.com/russven)  
 - [LinkedIn](https://www.linkedin.com/in/ruben-alegrias-b8560a2a5/)  
