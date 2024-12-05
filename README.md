@@ -26,14 +26,14 @@ La aplicación está optimizada para brindar una experiencia de usuario envolven
 
 ## 🛠️ **Tecnologías Utilizadas**
 1. **Framework**:
-   - [React.js](https://react.dev/) - Biblioteca de JavaScript para construir interfaces de usuario.
    - [Vite](https://vitejs.dev/) - Herramienta de desarrollo rápida y ligera.
    - **TypeScript** - Superconjunto de JavaScript que añade tipado estático.
 
 2. **Librerías**:
+   - [React.js](https://react.dev/) - Biblioteca de JavaScript para construir interfaces de usuario.
    - [SweetAlert2](https://sweetalert2.github.io/) - Alertas emergentes personalizables.
 
-3. **Estilo**:
+4. **Estilo**:
    - CSS3: Diseño responsivo y dinámico.
    - Flexbox y Grid: Para estructurar y alinear elementos de forma moderna.
 
